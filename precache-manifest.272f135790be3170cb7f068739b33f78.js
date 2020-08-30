@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d11d42917bec13cb33e684b5b7cc70d",
+    "revision": "d9755b1f55ee1ff7eda6902af9553262",
     "url": "/hostit-web/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hostit-web/static/css/2.70cd73df.chunk.css"
   },
   {
-    "revision": "f9e5ccbd95b7754dbe8a",
+    "revision": "86e9bb1bf4bc8d145031",
     "url": "/hostit-web/static/css/main.9760888e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hostit-web/static/js/2.0a9e423c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f9e5ccbd95b7754dbe8a",
-    "url": "/hostit-web/static/js/main.85aab004.chunk.js"
+    "revision": "86e9bb1bf4bc8d145031",
+    "url": "/hostit-web/static/js/main.66d4f9e9.chunk.js"
   },
   {
     "revision": "c66c778852a6c6415359",

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/hostit-web/static/css/main.9760888e.chunk.css",
-    "main.js": "/hostit-web/static/js/main.85aab004.chunk.js",
-    "main.js.map": "/hostit-web/static/js/main.85aab004.chunk.js.map",
+    "main.js": "/hostit-web/static/js/main.66d4f9e9.chunk.js",
+    "main.js.map": "/hostit-web/static/js/main.66d4f9e9.chunk.js.map",
     "runtime-main.js": "/hostit-web/static/js/runtime-main.01723eeb.js",
     "runtime-main.js.map": "/hostit-web/static/js/runtime-main.01723eeb.js.map",
     "static/css/2.70cd73df.chunk.css": "/hostit-web/static/css/2.70cd73df.chunk.css",
     "static/js/2.0a9e423c.chunk.js": "/hostit-web/static/js/2.0a9e423c.chunk.js",
     "static/js/2.0a9e423c.chunk.js.map": "/hostit-web/static/js/2.0a9e423c.chunk.js.map",
     "index.html": "/hostit-web/index.html",
-    "precache-manifest.32310b8a197864d05a1feb77d8a9ea0f.js": "/hostit-web/precache-manifest.32310b8a197864d05a1feb77d8a9ea0f.js",
+    "precache-manifest.272f135790be3170cb7f068739b33f78.js": "/hostit-web/precache-manifest.272f135790be3170cb7f068739b33f78.js",
     "service-worker.js": "/hostit-web/service-worker.js",
     "static/css/2.70cd73df.chunk.css.map": "/hostit-web/static/css/2.70cd73df.chunk.css.map",
     "static/css/main.9760888e.chunk.css.map": "/hostit-web/static/css/main.9760888e.chunk.css.map",
@@ -22,6 +22,6 @@
     "static/css/2.70cd73df.chunk.css",
     "static/js/2.0a9e423c.chunk.js",
     "static/css/main.9760888e.chunk.css",
-    "static/js/main.85aab004.chunk.js"
+    "static/js/main.66d4f9e9.chunk.js"
   ]
 }
