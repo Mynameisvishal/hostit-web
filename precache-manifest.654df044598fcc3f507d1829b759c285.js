@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d9755b1f55ee1ff7eda6902af9553262",
+    "revision": "5383406da11534716f8e26f3603e25d8",
     "url": "/hostit-web/index.html"
   },
   {
-    "revision": "e0915cea1498e5b5dfbd",
+    "revision": "98129ae9d8561830816f",
     "url": "/hostit-web/static/css/2.70cd73df.chunk.css"
   },
   {
-    "revision": "86e9bb1bf4bc8d145031",
-    "url": "/hostit-web/static/css/main.9760888e.chunk.css"
+    "revision": "4206612bcca887a62c99",
+    "url": "/hostit-web/static/css/main.c3281839.chunk.css"
   },
   {
-    "revision": "e0915cea1498e5b5dfbd",
-    "url": "/hostit-web/static/js/2.0a9e423c.chunk.js"
+    "revision": "98129ae9d8561830816f",
+    "url": "/hostit-web/static/js/2.d346ca03.chunk.js"
   },
   {
     "revision": "5bd09eb7f2cf4d145d532d862be18942",
-    "url": "/hostit-web/static/js/2.0a9e423c.chunk.js.LICENSE.txt"
+    "url": "/hostit-web/static/js/2.d346ca03.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "86e9bb1bf4bc8d145031",
-    "url": "/hostit-web/static/js/main.66d4f9e9.chunk.js"
+    "revision": "4206612bcca887a62c99",
+    "url": "/hostit-web/static/js/main.4d9ffd0f.chunk.js"
   },
   {
     "revision": "c66c778852a6c6415359",
@@ -46,6 +46,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e8c322de9658cbeb8a774b6624167c2c",
     "url": "/hostit-web/static/media/brand-icons.e8c322de.woff2"
+  },
+  {
+    "revision": "0395bacb8dab7dfde4dba284b2e9ec42",
+    "url": "/hostit-web/static/media/codicon.0395bacb.png"
   },
   {
     "revision": "9c74e172f87984c48ddf5c8108cabe67",
@@ -94,5 +98,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/hostit-web/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "fb7b1696038d987b6b5230d663c13767",
+    "url": "/hostit-web/static/media/pubgfreefire.fb7b1696.jpg"
   }
 ]);
