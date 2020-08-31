@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/hostit-web/static/css/main.945da025.chunk.css",
+    "main.css": "/hostit-web/static/css/main.1f0a2897.chunk.css",
     "main.js": "/hostit-web/static/js/main.94b2b2c8.chunk.js",
     "main.js.map": "/hostit-web/static/js/main.94b2b2c8.chunk.js.map",
     "runtime-main.js": "/hostit-web/static/js/runtime-main.01723eeb.js",
@@ -9,10 +9,10 @@
     "static/js/2.216ab1f4.chunk.js": "/hostit-web/static/js/2.216ab1f4.chunk.js",
     "static/js/2.216ab1f4.chunk.js.map": "/hostit-web/static/js/2.216ab1f4.chunk.js.map",
     "index.html": "/hostit-web/index.html",
-    "precache-manifest.291c973a004a70a9b97bb93953365f5e.js": "/hostit-web/precache-manifest.291c973a004a70a9b97bb93953365f5e.js",
+    "precache-manifest.2f12619dedf87237344f0627bfe323e9.js": "/hostit-web/precache-manifest.2f12619dedf87237344f0627bfe323e9.js",
     "service-worker.js": "/hostit-web/service-worker.js",
     "static/css/2.70cd73df.chunk.css.map": "/hostit-web/static/css/2.70cd73df.chunk.css.map",
-    "static/css/main.945da025.chunk.css.map": "/hostit-web/static/css/main.945da025.chunk.css.map",
+    "static/css/main.1f0a2897.chunk.css.map": "/hostit-web/static/css/main.1f0a2897.chunk.css.map",
     "static/js/2.216ab1f4.chunk.js.LICENSE.txt": "/hostit-web/static/js/2.216ab1f4.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/hostit-web/static/media/outline-icons.ef60a4f6.woff",
     "static/media/Home.css": "/hostit-web/static/media/codicon.0395bacb.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.01723eeb.js",
     "static/css/2.70cd73df.chunk.css",
     "static/js/2.216ab1f4.chunk.js",
-    "static/css/main.945da025.chunk.css",
+    "static/css/main.1f0a2897.chunk.css",
     "static/js/main.94b2b2c8.chunk.js"
   ]
 }
