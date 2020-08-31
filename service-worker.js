@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hostit-web/precache-manifest.848cb3ca1f0c2f101ed2e6417a4ab685.js"
+  "/hostit-web/precache-manifest.291c973a004a70a9b97bb93953365f5e.js"
 );
 
 self.addEventListener('message', (event) => {

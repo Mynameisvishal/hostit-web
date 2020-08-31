@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/hostit-web/static/css/main.c3281839.chunk.css",
-    "main.js": "/hostit-web/static/js/main.4d9ffd0f.chunk.js",
-    "main.js.map": "/hostit-web/static/js/main.4d9ffd0f.chunk.js.map",
+    "main.css": "/hostit-web/static/css/main.945da025.chunk.css",
+    "main.js": "/hostit-web/static/js/main.94b2b2c8.chunk.js",
+    "main.js.map": "/hostit-web/static/js/main.94b2b2c8.chunk.js.map",
     "runtime-main.js": "/hostit-web/static/js/runtime-main.01723eeb.js",
     "runtime-main.js.map": "/hostit-web/static/js/runtime-main.01723eeb.js.map",
     "static/css/2.70cd73df.chunk.css": "/hostit-web/static/css/2.70cd73df.chunk.css",
-    "static/js/2.d346ca03.chunk.js": "/hostit-web/static/js/2.d346ca03.chunk.js",
-    "static/js/2.d346ca03.chunk.js.map": "/hostit-web/static/js/2.d346ca03.chunk.js.map",
+    "static/js/2.216ab1f4.chunk.js": "/hostit-web/static/js/2.216ab1f4.chunk.js",
+    "static/js/2.216ab1f4.chunk.js.map": "/hostit-web/static/js/2.216ab1f4.chunk.js.map",
     "index.html": "/hostit-web/index.html",
-    "precache-manifest.848cb3ca1f0c2f101ed2e6417a4ab685.js": "/hostit-web/precache-manifest.848cb3ca1f0c2f101ed2e6417a4ab685.js",
+    "precache-manifest.291c973a004a70a9b97bb93953365f5e.js": "/hostit-web/precache-manifest.291c973a004a70a9b97bb93953365f5e.js",
     "service-worker.js": "/hostit-web/service-worker.js",
     "static/css/2.70cd73df.chunk.css.map": "/hostit-web/static/css/2.70cd73df.chunk.css.map",
-    "static/css/main.c3281839.chunk.css.map": "/hostit-web/static/css/main.c3281839.chunk.css.map",
-    "static/js/2.d346ca03.chunk.js.LICENSE.txt": "/hostit-web/static/js/2.d346ca03.chunk.js.LICENSE.txt",
+    "static/css/main.945da025.chunk.css.map": "/hostit-web/static/css/main.945da025.chunk.css.map",
+    "static/js/2.216ab1f4.chunk.js.LICENSE.txt": "/hostit-web/static/js/2.216ab1f4.chunk.js.LICENSE.txt",
     "static/media/semantic.min.css": "/hostit-web/static/media/outline-icons.ef60a4f6.woff",
     "static/media/Home.css": "/hostit-web/static/media/codicon.0395bacb.png",
     "static/media/logo.png": "/hostit-web/static/media/logo.4557364a.png",
@@ -22,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.01723eeb.js",
     "static/css/2.70cd73df.chunk.css",
-    "static/js/2.d346ca03.chunk.js",
-    "static/css/main.c3281839.chunk.css",
-    "static/js/main.4d9ffd0f.chunk.js"
+    "static/js/2.216ab1f4.chunk.js",
+    "static/css/main.945da025.chunk.css",
+    "static/js/main.94b2b2c8.chunk.js"
   ]
 }
